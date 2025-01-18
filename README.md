@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Ishikasaxena-SE/Ishikasaxena-SE/blob/main/Welcome%20to%20Ishika%E2%80%99s%20Github%20Profile.gif" alt="Welcome!" width="500"/>
 
 </div>
 <h3 align="center">IT Specialist | Fluent in Java, Python, C | Passionate about Data Structures & Algorithms| MySQL & Oracle Skilled|Google Cloud & Azure Certified</h3>
