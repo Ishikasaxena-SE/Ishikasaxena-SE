@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ishika Saxena</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 <h3 align="center">IT Specialist | Fluent in Java, Python, C | Passionate about Data Structures & Algorithms| MySQL & Oracle Skilled|Google Cloud & Azure Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikasaxena-se&label=Profile%20views&color=0e75b6&style=flat" alt="ishikasaxena-se" /> </p>
